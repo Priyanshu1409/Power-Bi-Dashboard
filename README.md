@@ -63,5 +63,3 @@ Key Takeaways from the Dashboard
 ✔ Visual trends: Graphs and maps help in understanding historical and geographical data.
 
 ✔ Power BI capabilities: The dashboard leverages Power BI’s strengths in data visualization and interaction.
-
-![Image](https://github.com/user-attachments/assets/93474122-cf1a-4b1f-a911-c2203239b7ca)
